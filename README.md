@@ -28,6 +28,7 @@ El propósito de este repositorio es:
 * Centralizar el contenido en un solo enlace.  
 * Facilitar la edición del blog sin necesidad de modificar este repo.  
 
+
 ---
 
 ## 📜 Licencia
